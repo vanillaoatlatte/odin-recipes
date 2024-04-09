@@ -1,0 +1,8 @@
+h1 {font-size:36px; font-family:'Courier New', Courier, monospace; text-align: center;}
+button {background-color: wheat;
+        color: white; font-size: 24px;
+        font-family:Georgia, 'Times New Roman', Times, serif; 
+        align-items: center
+        ;}
+img {width:150px;
+    height:auto}
